@@ -1,0 +1,8 @@
+pip install SpeechRecognition
+pip install pyaudio
+pip install keyboard
+pip install fpdf
+
+download or install this library functions in your windows
+
+python 3.12 version is required
